@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'bank_app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'final',
-        'HOST' : 'localhost',
-        'USER' : 'root',
-        'PASSWORD' : 'Mlade2000!'
+        'NAME': 'heroku_e2dbcdfb3189583',
+        'HOST' : 'us-cdbr-east-05.cleardb.net',
+        'USER' : 'b257cb2cfe27fc',
+        'PASSWORD' : 'adf4b760'
     }
 }
 
