@@ -1,1 +1,1 @@
-# Interface_Banks_Clients
+### In this project, I worked on building an Interface for a relational database named Banks-Clients, of type many-to-many(M:N).The technologies used for this project are: MySQLWorkbench,Django,HTML,CSS, and several Object-Relational-Mapping concepts.
